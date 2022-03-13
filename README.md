@@ -1,2 +1,2 @@
-# hello_word
+# hello_world
 call me Emperor
